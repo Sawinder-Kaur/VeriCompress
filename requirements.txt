@@ -1,0 +1,4 @@
+Python 3.9.12
+Torch Version: 1.11.0
+install autolirpa from https://github.com/Verified-Intelligence/auto_LiRPA
+install torch_pruning from https://github.com/VainF/Torch-Pruning

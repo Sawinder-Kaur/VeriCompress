@@ -1,9 +1,7 @@
 # VeriCompress
 VeriCompress: A Tool to Streamline the Synthesis of Verified Robust Compressed Neural Networks from Scratch
 
-1. install requirements mentioned in requirements.txt
-2. install auto-lirpa from https://github.com/Verified-Intelligence/auto_LiRPA/tree/master/auto_LiRPA
-3. install torch-pruning form https://github.com/VainF/Torch-Pruning
+install requirements mentioned in requirements.txt
 
 # For Benchmark Vision Datasets - CIFAR( or MNIST or SVHN)
 ## Use following command for training dense model:
